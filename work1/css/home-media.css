@@ -1,0 +1,153 @@
+@media (max-width: 1199px ) and (min-width: 992px) {
+	.grey {
+	width: 41vw;
+	margin-left: 59%;
+	}
+	.advantages-card {
+		height: 420px;
+	}
+	.left-li_2 {
+		margin-top: 12px;
+		margin-bottom: 35px;
+	}
+	.right-li_2 {
+		margin-top: 12px;
+		margin-bottom: 86px;
+	}
+	.not-card {
+		margin-bottom: 25px;
+	}
+}
+
+@media (max-width: 991px ) and (min-width: 768px) {
+	.grey {
+	width: 36vw;
+	margin-left: 64%;
+	
+	}
+	.container-about1 {
+		background: url(../img/OG2NK50.png) no-repeat 4800% 0% / auto 498px;
+	}
+	.advantages-card {
+		height: 360px !important;
+		margin-bottom: 15px;
+	}
+	#hiw {
+		height: auto;
+	}
+	.hiw-list_left {
+		margin-bottom: 65px;
+	}
+	.left-li_2 {
+		margin-top: 119px;
+		margin-bottom: 114px;
+	}
+	.right-li_2 {
+		margin-top: 93px;
+		margin-bottom: 146px;
+	}
+	.not-card {
+		margin-bottom: 25px;
+		height: 500px;
+	}
+}
+@media (max-width: 767px ){
+	.grey {
+		display: none;
+	}
+	.container-about1 {
+		background: none;
+	}
+	.about-list li  {
+		font-size: 14px;
+	}
+	.about-list li:nth-child(1) {
+		font-size: 16px;
+	}
+	.about2-list li {
+		font-size: 14px !important;
+		letter-spacing: 0;
+	}
+	.advantages-card {
+		height: auto !important;
+		padding-bottom: 15px;
+		margin-bottom: 15px;
+	}
+	#hiw {
+		height: auto;
+		padding: 30px 0 30px
+	}
+	.hiw-list_left {
+		margin-bottom: 25px;
+	}
+	.left-li_2 {
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	.right-li_2 {
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	.hiw-list_left img, .hiw-list_right img {
+		display: none;
+	}
+	.not-card {
+		height: auto;
+		padding-bottom: 15px;
+		margin: 0 auto 25px;
+	}
+}
+
+@media (max-width: 767px ) and (min-width: 353px) {
+	.about2-submit, .about2-submit:visited, .about2-submit:link {	
+		font-size: 14px;
+	}
+
+}
+@media (max-width: 352px ){
+	.about2-submit, .about2-submit:visited, .about2-submit:link {
+		font-size: 12px;
+	}
+
+}
+@media (max-width: 1050px ){
+	.advantages-card {
+		height: 430px;
+	}
+}
+@media (max-width: 483px )  and (min-width: 422px){
+	.container-about1 {
+		margin-top: -500px;
+		height: 500px;
+	}
+}
+@media (max-width: 421px ) and (min-width: 408px) {
+	.container-about1 {
+		margin-top: -517px;
+		height: 517px;
+	}
+}
+@media (max-width: 407px ) and (min-width: 380px) {
+	.container-about1 {
+		margin-top: -516px;
+		height: 554px;
+	}
+}
+@media (max-width: 379px ) and (min-width: 355px){
+	.container-about1 {
+		margin-top: -516px;
+		height: 570px;
+	}
+}
+@media (max-width: 354px ) and (min-width: 339px){
+	.container-about1 {
+		margin-top: -516px;
+		height: 593px;
+	}
+}
+@media (max-width: 338px ){
+	.container-about1 {
+		margin-top: -516px;
+		height: 630px;
+	}
+}
