@@ -1,0 +1,132 @@
+.contact {
+	color: #5b81a6 !important;
+}
+body {
+	background-color: #eff9fe;
+}
+#top {
+	min-height: 645px;
+	padding-top: 70px;
+}
+h1 {
+	font-family: 'Calibri';
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	margin: 86px auto 0;
+	letter-spacing: 0px;
+	max-width: 565px;
+	line-height: 119%;
+	padding-left: 0px;
+}
+.second-box {
+	margin-top: -129px;
+	background-color: #fff;
+	padding-top:74px;
+	padding-bottom: 56px;
+	color: #254464;
+	font-family: 'Calibri';
+	font-size: 20px
+}
+input {
+	width: 100%;
+	height: 50px;
+	margin-bottom: 24px
+}
+input::-webkit-input-placeholder {
+	color: #d0e2f2;
+	font-family: 'Calibri';
+	font-size: 16px;
+}
+input:-moz-placeholder {
+	color: #d0e2f2;
+	font-family: 'Calibri';
+	font-size: 16px;
+}
+textarea::-webkit-input-placeholder {
+	color: #d0e2f2;
+	font-family: 'Calibri';
+	font-size: 16px;
+}
+textarea:-moz-placeholder {
+	color: #d0e2f2;
+	font-family: 'Calibri';
+	font-size: 16px;
+}
+textarea {
+	width: 100%;
+	height: 120px;
+	padding-top: 10px;
+}
+input, textarea {
+	border: 2px solid #d0e2f2;
+	color: #254464;
+	padding-left: 15px !important;
+}
+button {
+	background-color: transparent;
+	border: none;
+	color: #9bd1db;
+	font-family: 'Calibri';
+	font-size: 17px;
+	text-transform: uppercase;
+	float: right;
+	letter-spacing: 1px;
+	margin-top: 22px;
+	margin-right: 10px;
+}
+button:hover {
+	color: #5b81a6 !important;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.contact-text1 {
+	margin-top: -8px;
+}
+.contact-text2 {
+	margin-top: 27px;
+}
+.cont {
+	margin-top: 16px;
+}
+.contact-text3-1 {	
+	font-size: 16px;
+
+}
+.contact-text3-2 {
+	margin-top: -9px;
+	font-size: 16px;
+}
+.contact-text3-3 {
+	margin-top: -9px;
+	font-size: 16px;
+}
+.contact-text4 {
+	margin-top: 101px;
+}
+.contact-text5 {
+	margin-top: 35px;
+	letter-spacing: 1px;
+	font-size: 16px;
+	max-width: 350px;
+	line-height: 153%;
+}
+#map {
+	margin-top: 104px;
+	width: 100%;
+	height: 325px;
+}
+.map-box img {
+	width: 100%;
+}
+.contact-text6 {
+	background: url(../img/noun_623517_cc.png) no-repeat 50% 0% / 46px 17px;
+	text-align: center;
+	margin-top: 67px;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	display: block;
+	padding-top: 33px;
+}

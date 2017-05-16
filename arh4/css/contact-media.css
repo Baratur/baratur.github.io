@@ -1,0 +1,27 @@
+@media (max-width: 767px ) {
+	body {
+		background-color: #fff;
+	}
+	.second-box {
+		margin-top: 0;
+	}
+}
+@media (max-width: 767px ) and (min-width: 421px) {
+	.contact-text3-1 {
+		margin-right: 15px;
+		float: left;
+	}
+	.contact-text3-2 {
+		display: block;
+		float: none;
+	}
+	.contact-text3-3 {
+
+		float: left;
+	}
+}	
+@media (max-width: 420px ) {
+	.contact-text3-1, .contact-text3-2, .contact-text3-3 {
+		float: none;
+	}
+}

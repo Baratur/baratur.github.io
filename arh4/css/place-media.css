@@ -1,0 +1,130 @@
+@media (min-width: 992px) {
+	.card3_photo_tel {display: none;}
+	.card5_photo_tel {display: none;}
+}
+@media (max-width: 1199px ) and (min-width: 992px) {
+	.card2_inner {
+		padding-top: 34px;
+	}
+	.card3_inner {
+		padding-top: 16px;
+	}
+	.card4_inner {
+		padding-top: 14px;
+	}
+	
+
+}
+@media (max-width: 991px ) and (min-width: 768px) {
+	.card2_photo {
+		background: url(../img/place1-724.jpg) no-repeat center top / cover;
+		width: 100%;
+		height: 310px;
+		float: none;
+	}
+	.card2_inner{
+		padding-top: 56px;
+		width: 100%;
+		height: 310px;
+		float: none;
+	}
+	.card2 {
+		height: auto;
+	}
+	.card3_photo_tel {
+		background: url(../img/place2.jpg) no-repeat center top / cover;
+	}
+	.card5_photo_tel {
+		background: url(../img/place4.jpg) no-repeat center top / cover;
+	}
+}
+@media (max-width: 991px ) {
+	.second-h2_text {
+		width: 100%;
+	}
+	.card3_photo_nontel {display: none;}
+	.card5_photo_nontel {display: none;}
+}
+@media (max-width: 767px ) and (min-width: 481px){
+	#top {
+		height: 475px;
+		background: url(../img/place-top-bg-724.jpg) no-repeat center top / cover;
+		padding-top: 124px;
+	}
+		.card2_photo {
+		background: url(../img/place1-724.jpg) no-repeat center top / cover;
+		width: 100%;
+		height: 310px;
+		float: none;
+	}
+	.card2_inner{
+		padding-top: 56px;
+		width: 100%;
+		min-height: 310px;
+		float: none;
+	}
+	.card2 {
+		height: auto;
+	}
+	.card3_photo_tel {
+		background: url(../img/place2-724.jpg) no-repeat center top / cover;
+	}
+	.card4_photo {
+		background: url(../img/place3-724.jpg) no-repeat center top / cover;
+	}
+	.card5_photo_tel {
+		background: url(../img/place4-724.jpg) no-repeat center top / cover;
+	}
+	.card6_photo {
+		background: url(../img/place5-724.jpg) no-repeat center top / cover;
+	}
+
+}
+
+
+
+
+@media (max-width: 767px ) {
+	
+	#second {
+		margin-top:0;
+	}
+	.card1-box {
+		background-color: #fff;
+	}
+
+}
+@media (max-width: 480px ) {
+	#top {
+		height: 483px;
+		background: url(../img/place-top-bg-480.jpg) no-repeat center top / cover;
+		padding-top: 194px;
+	}
+	.card2_photo {
+		background: url(../img/place1-480.jpg) no-repeat center top / cover;
+		width: 100%;
+		height: 310px;
+		float: none;
+	}
+	.card2_inner{
+		padding-top: 56px;
+		width: 100%;
+		min-height: 310px;
+		float: none;
+	}
+	.card2 {
+		height: auto;
+	}
+	.card3_photo_tel {
+		background: url(../img/place2-480.jpg) no-repeat center top / cover;
+	}
+	.card4_photo {
+		background: url(../img/place3-480.jpg) no-repeat center top / cover;
+	}
+	.card5_photo_tel {
+		background: url(../img/place4-480.jpg) no-repeat center top / cover;
+	}
+	.card6_photo {
+		background: url(../img/place5-480.jpg) no-repeat center top / cover;
+	}	
+}

@@ -1,0 +1,107 @@
+@media (min-width: 768px) {
+	.second-card2_box_left_tel {
+		display: none;
+	}
+	.place-card_left_tel {
+		display: none;
+	}
+}
+@media (max-width: 991px ) and (min-width: 768px) {
+	.second-card2_link {
+		margin-top:35px !important;
+	}
+}
+@media (max-width: 767px ) {
+	body {
+		background-color: #fff;
+	}
+	#top {
+		height: 496px;
+	}
+	h1 {
+		font-family: 'Calibri-Bold';
+		font-size: 34px;
+		margin-top: 184px;
+		letter-spacing: 1px;
+		line-height: 149%;
+	}
+	.second-box_inner {
+		padding-bottom: 52px;
+	}
+	h2{
+		margin-bottom: 22px;
+		letter-spacing: 1px;
+	}
+	.second-h2_p {
+		line-height: 120.5%;
+		margin-bottom: 60px;
+	}
+	.second-box {
+		margin-top: 0;
+		padding-top:15px;
+	}
+	.second-card1 {
+		margin-top: 0;
+	}
+	.second-card1, .second-card2 {
+		height: auto;
+	}
+	.second-card1_box_left, .second-card2_box_left_tel, .second-card1_box_right, 
+	.second-card2_box_right {
+		float: none;
+		width: 100%;
+	}
+	.second-card1_box_left {
+		padding-top: 69px;
+		height: 209px;
+	}
+	.second-card2_box_left_nontel {
+		display: none;	
+	}
+	.second-card1_box_right {
+		background: url(../img/apart1-tel.jpg) no-repeat center center / cover;
+		height: 216px;
+	}
+	.second-card2_box_left_tel {
+		background: url(../img/apart3-tel.jpg) no-repeat center center / cover;
+		height: 213px;
+	}
+	.second-card2_box_right {
+		padding: 88px 40px 43px;
+		height: auto;
+	}
+	.second-card2_link {
+		margin-top:16px !important;
+		display: inline-block;
+		margin-bottom: 0;
+		float: none;
+	}
+	.place-card_left_nontel {
+		display: none;
+	}
+	.place-card_left_tel {
+		background: url(../img/apart4-tel.jpg) no-repeat center bottom / cover;
+		height: 236px;
+	}
+	.place-card_right, .place-card_text_box, .place-card_left_tel {
+		float: none;
+		width: 100%;
+	}
+	.place-card {
+		height: 210px;
+		margin-top: 0;
+	}
+	.place-card_text_box {
+		padding: 83px 0 0;
+	}
+	.place-card_right {
+		padding-top: 65px;
+	}
+	.place-card_text {
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+	.place-card_link {
+		margin-bottom: 65px;
+	}
+}

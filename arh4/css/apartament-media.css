@@ -1,0 +1,93 @@
+@media (max-width: 1199px ) and (min-width: 992px) {
+	.img-btn {
+		width: 71px;
+		height: 45px;
+		margin-right: 5px;
+	}
+	.img-btn_last {
+		margin-right: 0;
+	}
+	.img-btn_first {
+		margin-left: 5px;
+	}
+	.img-btn_img {
+		width: 82px;
+	}
+	.apart-list_get li {
+		width: 110px;
+	}
+	.apart-list_get li:nth-child(2), .apart-list_get li:nth-child(6) {
+		width: 205px;
+	}
+	.apart-list_get li:nth-child(3), .apart-list_get li:nth-child(7) {
+		width: 110px;
+	}
+	.apart-list_get li:nth-child(4), .apart-list_get li:nth-child(8) {
+		width: 110px;
+	}
+}
+@media (max-width: 991px ) and (min-width: 768px) {
+	.apart-list_get {
+		margin-left: 25px;
+	}
+	.apart-list_get li {
+		width: 120px;
+	}
+	.apart-list_get li:nth-child(2), .apart-list_get li:nth-child(6) {
+		width: 205px;
+	}
+	.apart-list_get li:nth-child(3), .apart-list_get li:nth-child(7) {
+		width: 120px;
+	}
+	.apart-list_get li:nth-child(4), .apart-list_get li:nth-child(8) {
+		width: 120px;
+	}
+}
+@media (max-width: 991px ) {
+	.apart-text {margin-left:0;}
+	.img-btn {display: none;}
+}
+@media (max-width: 767px ) and (min-width: 475px){
+	.apart-list_get {
+		width: 445px;
+		margin: 61px auto 0;
+	}
+	.apart-list_get li {
+		width: 120px;
+	}
+	.apart-list_get li:nth-child(2), .apart-list_get li:nth-child(6) {
+		width: 205px;
+	}
+	.apart-list_get li:nth-child(3), .apart-list_get li:nth-child(7) {
+		width: 120px;
+	}
+	.apart-list_get li:nth-child(4), .apart-list_get li:nth-child(8) {
+		display: none;
+	}
+}
+@media (min-width: 768px ) {img.carusel-img-tel {display: none !important;}}
+@media (max-width: 767px ) {
+	.apart-box{margin-top: 0;}
+	body {background-color: #fff;}
+	.apart-text-mailto_text {margin-left: 0;}
+	.carusel-link-nontel {display: none;}
+}
+@media (max-width: 474px ) and (min-width: 320px) {
+	.apart-list_get {
+		width: 290px;
+		margin: 61px auto 0;
+	}
+	.apart-list_get li {
+		width: 145px;
+	}
+	.apart-list_get li:nth-child(2), .apart-list_get li:nth-child(6) {
+		width: 145px;
+	}
+	.apart-list_get li:nth-child(3), .apart-list_get li:nth-child(7) {
+		width: 145px;
+	}
+	.apart-list_get li:nth-child(4), .apart-list_get li:nth-child(8) {
+		display: none;
+	}
+	.apart-list_get li:nth-child(6) {line-height: 14px;}
+}

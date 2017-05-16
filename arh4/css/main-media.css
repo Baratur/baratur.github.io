@@ -1,0 +1,15 @@
+@media (max-width: 767px ) {
+	.navbar-default .navbar-nav>li>a {
+	    padding: 5px 27px 5px;
+	}
+	.navbar-default {
+	    background-color: #eff9fe;
+	    border-color: transparent;
+	}
+	.nbr, .c_right, .mail, .mail:visited, .mail:active, .mail:hover {
+		float:left;
+	}
+	footer {
+		padding-top:48px;
+	}
+}

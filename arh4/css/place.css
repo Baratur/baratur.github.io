@@ -1,0 +1,99 @@
+.place {
+	color: #5b81a6 !important;
+}
+body {
+	background-color: #eff9fe;
+}
+#top {
+	min-height: 704px;
+	/*background: url(../img/place-top-bg.jpg) no-repeat center top / cover;*/
+	padding-top: 228px;
+}
+h1 {
+	font-family: 'Calibri';
+	color: #fff;
+	font-size: 50px;
+	text-align: center;
+	letter-spacing: 6px;
+}
+#second {
+	margin-top:-178px;
+}
+.card1 {
+	background-color: #fff;
+	padding-top: 50px;
+	padding-bottom: 72px;
+}
+.second_h2 {
+	font-family: 'Calibri';
+	color: #254464;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+.second-h2_text {
+	width: 857px;
+	margin: 0 auto;
+	font-family: 'Calibri';
+	color: #254464;
+	font-size: 16px;
+	text-align: center;
+	letter-spacing: 1px;
+	margin-top: 20px;
+}
+.card2 {
+	background-color: #94c3d8;
+}
+.card2, .card2_photo {
+	height: 310px;
+}
+.card2_photo {
+	background: url(../img/place1.jpg) no-repeat center top / cover;
+	width: 40%;
+	float: left;
+}
+.card2_inner {
+	width: 60%;
+	padding-left: 28px;
+	padding-top: 52px;
+	padding-bottom: 15px;
+	padding-right: 21px;
+	float:left;
+}
+.card2_h3 {
+	margin-top: 0;
+	font-family: 'Calibri';
+	color: #fff;
+	font-size: 24px;
+	letter-spacing: 1px;
+}
+.card2_text {
+	font-family: 'Calibri';
+	color: #fff;
+	font-size: 16px;
+	letter-spacing: 1px;
+	margin-top:19px;
+	line-height: 160%;
+}
+.card3, .card5 {
+	background-color: #fff;
+}
+.card3_h3, .card5_h3{
+	color: #254464;
+}
+.card3_text, .card5_text {
+	color: #254464;
+}
+.card3_photo_nontel, .card3_photo_tel {
+	background: url(../img/place2.jpg) no-repeat center top / cover;
+}
+.card4_photo {
+	background: url(../img/place3.jpg) no-repeat center top / cover;
+}
+.card5_photo_nontel, .card5_photo_tel {
+	background: url(../img/place4.jpg) no-repeat center top / cover;
+}
+.card6_photo {
+	background: url(../img/place5.jpg) no-repeat center top / cover;
+}
+
