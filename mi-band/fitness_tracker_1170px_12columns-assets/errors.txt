@@ -1,0 +1,4 @@
+[Sun Apr 23 2017 13:54:07 GMT+0400 (Московское время (зима))] Layer "+7 (904) 217-91-39": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Sun Apr 23 2017 13:54:07 GMT+0400 (Московское время (зима))] Layer "goodbraser@mail.ru": Unsupported extension: ru
+[Sun Apr 23 2017 13:54:07 GMT+0400 (Московское время (зима))] Layer "+7 (904) 217-91-39": Expected Either a default asset specification or a layer asset specification but "+" found.
+[Sun Apr 23 2017 13:54:07 GMT+0400 (Московское время (зима))] Layer "goodbraser@mail.ru ": Unsupported extension: ru

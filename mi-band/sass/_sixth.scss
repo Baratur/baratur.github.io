@@ -1,0 +1,78 @@
+#sixth {
+	width: 100%;
+	height: 265px;
+	background: url('../img/bg6.png') no-repeat 50% 50% / cover;
+	z-index: 1;
+	opacity: .99;
+	margin-top: -67px;
+	& img {
+		width: 247px;
+		margin-top: 23px;
+		margin-left: 10px;
+	}
+	& h2 {
+		color: white;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 50px;
+		font-weight: 700;
+		line-height: 30px;
+		text-transform: uppercase;
+		text-align: center;
+		margin-top: 39px;
+	    margin-left: -32px;
+	    letter-spacing: 5px;
+	}
+	& .sixth-text {
+		text-align: center;
+		color: white;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 20px;
+		line-height: 30px;
+		font-variant: small-caps;
+		font-weight: 400;
+		margin-top: 26px;
+	    margin-left: -33px;
+	    letter-spacing: 1.6px;
+		&__up {
+			font-weight: 700;
+			font-size: 20px;
+			text-transform: uppercase;
+			text-align: center;
+			color:  white;
+			margin-top: -9px;
+		    margin-left: -25px;
+		    letter-spacing: 2px;
+		}
+	}
+
+}
+.btn-to-form_sisth {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 30px;
+	width: 181px;
+	height: 50px;
+	background-color: #7ed36d;
+	border-radius: 6px;
+	display: block;
+	text-align: center;
+	margin: 10px auto 0;
+	padding-top: 2px;
+	margin-top: 26px;
+    margin-left: 169px;
+    letter-spacing: 1.5px;
+    border: none;
+    text-transform: uppercase;
+	&:visited, &:focus, &:hover, &:active {
+		text-decoration: none;
+		color: white;
+		background-color: #7ed36d;
+		
+	}
+	&:hover {
+		text-decoration: none;
+		background-color: #5f9e53;
+	}
+}

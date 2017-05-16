@@ -1,0 +1,1269 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/main\.scss}line{font-family:\000033}}
+button:focus, a:focus {
+  outline: none !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\000031}}
+#top {
+  width: 100%;
+  height: 860px;
+  background: url("../img/top-bg.png") no-repeat 50% 0%/cover;
+  z-index: 1;
+  opacity: .99;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\000038}}
+nav {
+  width: 100%;
+  height: 115px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000315}}
+.logo {
+  height: 115px;
+  width: 355px;
+  padding: 23px 0 15px 148px;
+  background: url("../img/logo.png") no-repeat 3% 52%/85px;
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000322}}
+.logo-text {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 2px;
+  margin-left: -10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000331}}
+.logo-text__up {
+  font-size: 28px;
+  letter-spacing: 3px;
+  margin-left: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000337}}
+.menu {
+  float: right;
+  margin-top: 45px;
+  margin-right: 28px;
+  width: 535px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000342}}
+.menu li {
+  float: left;
+  margin-right: 35px;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+  letter-spacing: 1.6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000351}}
+.menu li a {
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000354}}
+.menu li a:visited, .menu li a:focus, .menu li a:hover, .menu li a:active {
+  text-decoration: none;
+  color: #fff;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000359}}
+.menu .menu__m {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000366}}
+.menu li:last-child {
+  margin-right: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000371}}
+.top-link-list {
+  margin-top: 19px;
+  float: right;
+  padding: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000376}}
+.top-link-list .top-link_ico {
+  color: #fb404a;
+  font-size: 17px;
+  margin-right: -1px;
+  display: inline-block;
+  margin-right: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000384}}
+.top-link-list li {
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+  font-weight: 700;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000390}}
+.top-link-list li:first-child {
+  font-size: 18px;
+  letter-spacing: 1.6px;
+  word-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000395}}
+.top-link-list li:nth-child(2) {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\0000399}}
+.top-link-list li:nth-child(2) .top-link_ico {
+  padding-bottom: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003103}}
+.top-link-list li:last-child {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  word-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003108}}
+.top-link-list li:last-child .top-link__time {
+  font-size: 8px;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003115}}
+.top-link-list li:last-child .top-link3__m {
+  text-transform: uppercase;
+  font-size: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003119}}
+.top-link-list li:last-child .top-link_ico {
+  padding-bottom: 1px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003124}}
+.top-img {
+  width: 698px;
+  margin-top: 168px;
+  margin-left: -38px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003130}}
+h1 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 100px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: -13px;
+  margin-top: 164px;
+  letter-spacing: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003141}}
+#top h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  letter-spacing: 3px;
+  word-spacing: 2px;
+  line-height: 40px;
+  margin-top: -9px;
+  margin-left: -16px;
+  text-transform: uppercase;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003153}}
+.top-p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  margin-left: -13px;
+  margin-top: 26px;
+  letter-spacing: 1.8px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003161}}
+.top-p__up {
+  font-weight: 700;
+  line-height: 134%;
+  font-size: 32px;
+  letter-spacing: 3px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003168}}
+.btn-to-form {
+  width: 181px;
+  height: 50px;
+  background-color: #fb404a;
+  border-radius: 6px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  padding: 9px 12px;
+  margin-top: 13px;
+  margin-left: -11px;
+  letter-spacing: 1.7px;
+  display: block;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003188}}
+.btn-to-form:focus {
+  outline: none !important;
+  text-decoration: none;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003193}}
+.btn-to-form:active, .btn-to-form:visited {
+  text-decoration: none;
+  color: white;
+  background-color: #fb404a;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003198}}
+.btn-to-form:hover {
+  background-color: #ca3139;
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003203}}
+.btn-more {
+  background-color: transparent;
+  border-radius: 6px;
+  color: #d2e824;
+  border: 2px solid #d2e824;
+  padding: 9px 0;
+  margin-top: 13px;
+  margin-left: 50px;
+  letter-spacing: 1.7px;
+  display: block;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003216}}
+.btn-more:focus {
+  outline: none !important;
+  color: #d2e824;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003220}}
+.btn-more:active, .btn-more:visited {
+  text-decoration: none;
+  color: #d2e824;
+  background-color: transparent;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_first\.scss}line{font-family:\00003225}}
+.btn-more:hover {
+  background-color: #d2e824;
+  text-decoration: none;
+  color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\000031}}
+#second {
+  width: 100%;
+  height: 725px;
+  background: url("../img/bg2.png") no-repeat 50% 0%/cover;
+  z-index: -1;
+  margin-top: -75px;
+  padding-top: 70px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\000039}}
+#second h2 {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-left: -26px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000321}}
+.card1 {
+  width: 270px;
+  height: 389px;
+  background-color: #cd444b;
+  box-shadow: 0 0 45px 5px rgba(57, 57, 57, 0.7);
+  list-style-type: none;
+  float: left;
+  margin-left: 31px;
+  margin-top: 63px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000330}}
+.card1 .card-inner {
+  padding: 133px 5px 0;
+  width: 270px;
+  height: 389px;
+  background: url("../img/ico2.png") no-repeat 50% 15%/69px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000336}}
+.card1 p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  font-variant: small-caps;
+  text-align: center;
+  margin-top: 38px;
+  letter-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000347}}
+.card1:first-child {
+  margin-left: -19px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000349}}
+.card1:first-child .card-inner {
+  background: url("../img/ico1.png") no-repeat 50% 15%/79px;
+  padding: 133px 5px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000353}}
+.card1:first-child p {
+  margin-top: 18px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000358}}
+.card1:last-child .card-inner {
+  background: url("../img/ico3.png") no-repeat 50% 15%/50px;
+  padding: 133px 5px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_second\.scss}line{font-family:\0000363}}
+.card1 h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1.5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\000031}}
+#third {
+  width: 100%;
+  height: 1274px;
+  background: url("../img/bg3.png") no-repeat 50% 0%/cover;
+  margin-top: -166px;
+  padding-top: 130px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\000037}}
+#third .therd-redline {
+  border-bottom: 2px solid #fb404a;
+  width: 100%;
+  height: 5px;
+  margin-top: -12px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000313}}
+#third li:nth-child(odd) {
+  height: 258px;
+  width: 100%;
+  position: relative;
+  list-style-type: none;
+  padding-top: 76px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000319}}
+#third li:nth-child(odd) img {
+  position: absolute;
+  left: -71px;
+  top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000324}}
+#third li:nth-child(odd) h3 {
+  text-align: right;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-right: 42px;
+  letter-spacing: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000336}}
+#third li:nth-child(even) {
+  height: 258px;
+  width: 100%;
+  position: relative;
+  list-style-type: none;
+  padding-top: 76px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000342}}
+#third li:nth-child(even) img {
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000347}}
+#third li:nth-child(even) h3 {
+  text-align: left;
+  margin-left: -31px;
+  letter-spacing: 2px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000358}}
+#third li:nth-child(even) .therd-redline {
+  margin-left: -71px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000365}}
+#third li:first-child {
+  margin-top: 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000368}}
+#third ul {
+  margin-top: 72px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000371}}
+#third h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-left: -24px;
+}
+
+@media (max-width: 2880px) and (min-width: 1963px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_third\.scss}line{font-family:\0000384}}
+  #third {
+    margin-top: -8.6vw;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\000031}}
+#fourth {
+  width: 100%;
+  background: url("../img/bg4.png") no-repeat 50% 0%/cover;
+  height: 932px;
+  margin-top: -219px;
+  position: relative;
+  padding-top: 104px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\000038}}
+#fourth .fourth-item {
+  width: 1086px;
+  margin-top: 299px;
+  margin-left: 39px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000314}}
+#fourth h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: -25px;
+  letter-spacing: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000325}}
+#fourth li {
+  list-style-type: none;
+  width: 320px;
+  position: absolute;
+  top: 50%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000330}}
+#fourth li .img-box {
+  line-height: 134px;
+  text-align: center;
+  height: 134px;
+  width: 134px;
+  border-radius: 67px;
+  background-color: #cd444b;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000339}}
+#fourth li img {
+  max-height: 120px;
+  max-width: 120px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000343}}
+#fourth li h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 16px;
+  letter-spacing: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000355}}
+#fourth li:nth-child(1) {
+  left: 50%;
+  margin-left: -513px;
+  margin-top: -93px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000359}}
+#fourth li:nth-child(1) img {
+  margin-left: 13px;
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000364}}
+#fourth li:nth-child(2) {
+  left: 50%;
+  margin-left: -160px;
+  margin-top: -170px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000368}}
+#fourth li:nth-child(2) img {
+  margin-left: 2px;
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000373}}
+#fourth li:nth-child(3) {
+  right: 50%;
+  margin-right: -553px;
+  margin-top: -93px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000377}}
+#fourth li:nth-child(3) img {
+  margin-right: 2px;
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000382}}
+#fourth li:nth-child(4) {
+  left: 50%;
+  margin-left: -386px;
+  margin-top: 215px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000386}}
+#fourth li:nth-child(4) img {
+  margin-left: 2px;
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000390}}
+#fourth li:nth-child(4) h3 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000395}}
+#fourth li:nth-child(5) {
+  right: 50%;
+  margin-right: -409px;
+  margin-top: 196px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\0000399}}
+#fourth li:nth-child(5) img {
+  margin-right: 2px;
+  margin-top: -1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\00003103}}
+#fourth li:nth-child(5) h3 {
+  margin-top: 0;
+  margin-bottom: 19px;
+  line-height: 129%;
+}
+
+@media (max-width: 1872px) and (min-width: 1200px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_fourth\.scss}line{font-family:\00003112}}
+  #fourth {
+    margin-top: -18.6vw;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\000031}}
+#sixth {
+  width: 100%;
+  height: 265px;
+  background: url("../img/bg6.png") no-repeat 50% 50%/cover;
+  z-index: 1;
+  opacity: .99;
+  margin-top: -67px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\000038}}
+#sixth img {
+  width: 247px;
+  margin-top: 23px;
+  margin-left: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000313}}
+#sixth h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 39px;
+  margin-left: -32px;
+  letter-spacing: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000325}}
+#sixth .sixth-text {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+  font-variant: small-caps;
+  font-weight: 400;
+  margin-top: 26px;
+  margin-left: -33px;
+  letter-spacing: 1.6px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000336}}
+#sixth .sixth-text__up {
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  margin-top: -9px;
+  margin-left: -25px;
+  letter-spacing: 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000349}}
+.btn-to-form_sisth {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  width: 181px;
+  height: 50px;
+  background-color: #7ed36d;
+  border-radius: 6px;
+  display: block;
+  text-align: center;
+  margin: 10px auto 0;
+  padding-top: 2px;
+  margin-top: 26px;
+  margin-left: 169px;
+  letter-spacing: 1.5px;
+  border: none;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000368}}
+.btn-to-form_sisth:visited, .btn-to-form_sisth:focus, .btn-to-form_sisth:hover, .btn-to-form_sisth:active {
+  text-decoration: none;
+  color: white;
+  background-color: #7ed36d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_sixth\.scss}line{font-family:\0000374}}
+.btn-to-form_sisth:hover {
+  text-decoration: none;
+  background-color: #5f9e53;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\000031}}
+#seventh {
+  width: 100%;
+  height: 925px;
+  background: url("../img/bg7.png") no-repeat 50% 100%/cover;
+  z-index: -1;
+  margin-top: 0px;
+  padding-top: 53px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\000038}}
+#seventh h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: -24px;
+  letter-spacing: 4px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000320}}
+#myCarousel3 {
+  margin-top: 137px;
+  margin-left: 14px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000325}}
+.carousel-control {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000328}}
+img.sl-img {
+  height: 336px !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000331}}
+.carousel-indicators {
+  position: absolute;
+  bottom: -145px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  padding-left: 0;
+  margin-left: -38%;
+  text-align: center;
+  list-style: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000343}}
+.carousel-indicators li {
+  width: 49px;
+  height: 49px;
+  border: 2px solid transparent;
+  border-radius: 25px;
+  background-color: transparent;
+  margin: 0;
+  margin-right: 7px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000351}}
+.carousel-indicators li .tag {
+  width: 41px;
+  height: 41px;
+  border-radius: 20px;
+  margin: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000359}}
+.carousel-indicators li:nth-child(1) .tag {
+  background-color: #01cbfc;
+  border: 1px solid #01cbfc;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000363}}
+.carousel-indicators li:nth-child(2) .tag {
+  background-color: #e58787;
+  border: 1px solid #e58787;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000367}}
+.carousel-indicators li:nth-child(3) .tag {
+  background-color: #f08c4d;
+  border: 1px solid #f08c4d;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000371}}
+.carousel-indicators li:nth-child(4) .tag {
+  background-color: #afed15;
+  border: 1px solid #afed15;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000375}}
+.carousel-indicators li:nth-child(5) .tag {
+  background-color: #3e3e3e;
+  border: 1px solid #3e3e3e;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000379}}
+.carousel-indicators li:active {
+  border: 2px solid white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000383}}
+.carousel-indicators .active {
+  width: 49px;
+  height: 49px;
+  border: 2px solid white;
+  border-radius: 25px;
+  background-color: transparent;
+  margin-right: 7px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000391}}
+.seventh-list {
+  list-style-image: url(../img/v.png);
+  margin-top: 132px;
+  margin-left: 46px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\0000395}}
+.seventh-list li {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 3px;
+  font-variant: small-caps;
+  letter-spacing: 1.5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\00003105}}
+.btn-to-form_seven, .btn-to-form_seven:active,
+.btn-to-form_seven:visited, .btn-to-form_seven:focus {
+  margin-top: 160px;
+  margin-left: 150px;
+  text-decoration: none;
+  background-color: #fb404a;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_seventh\.scss}line{font-family:\00003112}}
+.btn-to-form_seven:hover {
+  text-decoration: none;
+  background-color: #b7333a;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\000031}}
+#eighth {
+  width: 100%;
+  height: 944px;
+  background: url("../img/bg8.png") no-repeat 50% 0%/cover;
+  margin-top: -116px;
+  padding-top: 117px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\000037}}
+#eighth h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: -27px;
+  letter-spacing: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000318}}
+#eighth .img1 {
+  margin-top: 76px;
+  margin-left: -79px;
+  width: 580px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000323}}
+#eighth .img2 {
+  margin-top: 52px;
+  margin-left: 58px;
+  width: 354px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000329}}
+.eighth-left-list {
+  list-style-image: url(../img/dot-8.png);
+  margin-top: -140px;
+  margin-left: -42px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000333}}
+.eighth-left-list h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000343}}
+.eighth-left-list p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  font-variant: small-caps;
+  letter-spacing: 1.4px;
+  text-align: left;
+  margin-top: -4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000354}}
+.eighth-left-list li {
+  height: 155px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000358}}
+.eighth-right-list {
+  list-style-image: url(../img/dot-8.png);
+  margin-top: 77px;
+  margin-left: -27px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000362}}
+.eighth-right-list h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: left;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000372}}
+.eighth-right-list p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  font-variant: small-caps;
+  letter-spacing: 1.4px;
+  text-align: left;
+  margin-top: -4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000383}}
+.eighth-right-list li {
+  height: 155px;
+}
+
+@media (max-width: 2880px) and (min-width: 1882px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_eighth\.scss}line{font-family:\0000388}}
+  #eighth {
+    margin-top: -6.1vw;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_ninth\.scss}line{font-family:\000031}}
+#ninth {
+  width: 100%;
+  height: 266px;
+  background: url("../img/bg9.png") no-repeat 50% 50%/cover;
+  padding-top: 41px;
+  margin-top: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_ninth\.scss}line{font-family:\000037}}
+#ninth h2 {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-left: -84px;
+  letter-spacing: 2px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_ninth\.scss}line{font-family:\0000318}}
+#ninth p {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  font-variant: small-caps;
+  margin-top: 22px;
+  margin-left: 42px;
+  letter-spacing: 1px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_ninth\.scss}line{font-family:\0000329}}
+#ninth img {
+  width: 404px;
+  margin-top: -34px;
+  margin-left: 30px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_ninth\.scss}line{font-family:\0000335}}
+.btn-to-form_ninth {
+  margin-top: 20px;
+  margin-left: 182px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\000031}}
+#tenth {
+  width: 100%;
+  height: 570px;
+  background: url("../img/bg10.png") no-repeat 50% 0%/cover;
+  padding-top: 40px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\000036}}
+#tenth h2 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 40px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2.3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000316}}
+#tenth .h2-box {
+  margin-left: -65px;
+  margin-top: 56px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000320}}
+#tenth .h2-box img {
+  position: absolute;
+  top: 23%;
+  left: 48.1%;
+  margin-left: 183px;
+  margin-top: -13px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000328}}
+#tenth img {
+  margin-left: 66px;
+  margin-top: 110px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000333}}
+#recall {
+  width: 100%;
+  height: 438px;
+  border: 3px solid white;
+  margin-top: 30px;
+  padding: 6px 23px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000339}}
+#recall h3 {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2.3px;
+  margin-bottom: 4px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000350}}
+#recall input {
+  width: 100%;
+  height: 55px;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 30px;
+  font-variant: small-caps;
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-top: 26px;
+  padding-left: 12px;
+  border: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000366}}
+#recall .btn-form {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+  font-variant: small-caps;
+  width: 100%;
+  height: 55px;
+  background-color: #fb404a;
+  text-align: center;
+  padding-top: 0px;
+  border: none;
+  margin-top: 24px;
+  letter-spacing: 1.5px;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000382}}
+#recall .btn-form:hover {
+  background-color: #b7333a;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_tenth\.scss}line{font-family:\0000388}}
+#recall .form-alert {
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  left: 50%;
+  margin-left: -150px;
+  bottom: -54px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_footer\.scss}line{font-family:\000031}}
+footer {
+  width: 100%;
+  height: 153px;
+  background: url("../img/bgf.png") no-repeat 50% 50%/cover;
+  margin-top: -5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_footer\.scss}line{font-family:\000037}}
+.copyright {
+  text-align: center;
+  opacity: 0.5;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 20px;
+  font-variant: small-caps;
+  margin-bottom: 15px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\000031}}
+.modal-content {
+  width: 770px;
+  height: 688px;
+  background-color: white;
+  background-image: -webkit-linear-gradient(bottom, rgba(156, 166, 40, 0.56) 0%, rgba(72, 170, 171, 0.56) 100%);
+  background-image: linear-gradient(to top, rgba(156, 166, 40, 0.56) 0%, rgba(72, 170, 171, 0.56) 100%);
+  box-shadow: 0 0 50px black;
+  padding: 19px;
+  border-radius: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000310}}
+.modal-body {
+  width: 732px;
+  height: 650px;
+  border: 2px solid white;
+  padding: 0 45px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000316}}
+#myModal h2 {
+  text-align: center;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  margin-top: 45px;
+  letter-spacing: 3px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000327}}
+.modal-h2-text {
+  background: url("../img/small-bg.png") no-repeat 50% 0%/cover;
+  width: 292px;
+  height: 44px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  font-variant: small-caps;
+  margin: 45px auto 0;
+  padding: 5px 0px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000342}}
+.modal-item {
+  width: 100%;
+  margin-top: 36px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000345}}
+.modal-item img {
+  float: left;
+  margin-left: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000349}}
+.modal-item p {
+  float: left;
+  margin-left: 15px;
+  margin-top: 10px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000362}}
+.modal-alert {
+  color: white;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000369}}
+.modal-color {
+  width: 100%;
+  margin-top: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000372}}
+.modal-color img {
+  float: left;
+  margin-left: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000376}}
+.modal-color p {
+  float: left;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 20px;
+  font-variant: small-caps;
+  margin-top: 15px;
+  margin-left: 5px;
+  letter-spacing: 2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\0000391}}
+#modal-recall input {
+  background-color: transparent;
+  width: 100%;
+  border: none;
+  margin-top: 37px;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  font-variant: small-caps;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003104}}
+#modal-recall input:focus {
+  outline: none !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003106}}
+#modal-recall input[name="name"] {
+  margin-top: 24px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003107}}
+#modal-recall input:-webkit-autofill, #modal-recall textarea:-webkit-autofill, #modal-recall select:-webkit-autofill {
+  background-color: transparent !important;
+  background-image: none;
+  color: #fff !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003112}}
+#modal-recall input::-webkit-input-placeholder {
+  color: #d0e0ca;
+  letter-spacing: 1.5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003113}}
+#modal-recall input:-moz-placeholder {
+  color: #d0e0ca;
+  letter-spacing: 1.5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003114}}
+#modal-recall input:-ms-input-placeholder {
+  color: #d0e0ca;
+  letter-spacing: 0px;
+  font-size: 16px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003115}}
+#modal-recall .btn-form {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+  font-variant: small-caps;
+  width: 214px;
+  height: 50px;
+  background-color: #fb404a;
+  border-radius: 7px;
+  text-align: center;
+  padding-top: 0px;
+  border: none;
+  letter-spacing: 1.5px;
+  margin: 24px 212px 26px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/OpenServer\/domains\/localhost\/work3\/sass\/_modal\.scss}line{font-family:\00003132}}
+#modal-recall .btn-form:hover {
+  background-color: #b7333a;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=main.css.map */

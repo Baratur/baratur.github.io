@@ -1,0 +1,819 @@
+@media (max-width: 433px ) {
+	h1 {
+		font-size: 59px;
+	}
+}
+@media (max-width: 767px) and (min-width: 434px) {
+	h1 {
+		font-size: 82px;
+	}
+}
+@media (max-width: 1199px) and (min-width: 992px) {
+	.h1-line {
+		top: 259px;
+	}
+	.cakes-right_list_1, .cakes-right_list_2, .cakes-right_list_3, .cakes-right_list_4 {
+		width: 215px;
+		height: 182px;
+	}
+	.cakes-right_list_1, .cakes-right_list_2 {
+		margin-bottom: 15px;
+	}
+	.cake-bullet {
+		top: 184px;
+	}
+	.cake-bullet_text {
+		top: 258px;
+	}
+	.quotes li {
+		top:0px;
+		left:44px;
+}
+	.quotes li:nth-child(2) {
+		top:-17px;
+		left:371px;
+	}
+	.food-card_ready {
+		top: -16px;
+		right: 50px;
+	}
+	.food-card {
+		width: 860px;
+	}
+	.recept_h2 {
+		font-size: 40px;
+		margin-top: 81px;
+	}
+	.recept-h2_atrb {
+		font-size: 12px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 25px;
+	}
+	.recept-sm_box1 p {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 675px;
+		height: 446px;
+		margin-top: 150px;
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 162px;
+		height: 166px;
+		margin-left: -162px;
+	}
+	.recept-viget_h3 {
+		font-size: 16px;
+		margin-top: 21px;
+	}
+	.recept-viget_time {
+		font-size: 76px;
+		margin-top: -9px;
+	}
+	.recept-viget_atrb {
+		font-size: 16px;
+		margin-top: -18px;
+	}
+	.recept-link {
+		font-size: 12px;
+		width: 200px;
+		padding: 13px 21px;
+		margin-top: -23px;
+		margin-right: -100px;
+	}
+}
+@media (max-width: 991px) and (min-width: 768px) {
+	.h1-line {
+		top: 259px;
+	}
+	.cakes-right_list_1, .cakes-right_list_3 {
+		float: right;
+	}
+	.cakes-right_list_2, .cakes-right_list_4 {
+		float: left;
+	}
+	.cakes-right_list_1, .cakes-right_list_2 {
+		margin-bottom: 25px;
+	}
+	.cake-bullet {
+		top: 225px;
+		margin-left:-124px;
+	}
+	.cake-bullet_text {
+		top: 300px;
+		margin-left:-114px;
+	}
+	.quotes li {
+		top:0px;
+		left:177px;
+	}
+	.quotes li:nth-child(2) {
+		top:-8px;
+		left:509px;
+	}
+	#cakes {
+		height: auto;
+		padding-bottom: 15px;
+	}
+	.food-card_ready {
+		top: -16px;
+		right: 30px;
+	}
+	.food-card {
+		width: 659px;
+	}
+	.food-description {
+		width: 520px;
+	}
+	.food-description-box {
+		width: 496px;
+	}
+	.price_menu-box {
+		width: 370px;
+		height: 499px;
+		background: url(../img/right-bg-4.png) no-repeat 50% 100% / cover;
+		padding: 35px;
+		float: right;
+		margin-top: 56px;
+	}
+	.price-h2 {
+		font-size: 50px;
+	}
+	.price-h2_atrb {
+		font-size: 14px;
+		margin-top: 0px;
+	}
+	.price-list_h3 {
+		font-size: 24px;
+	}
+	.price-list_variant {
+		font-size: 12px;
+	}
+	.price-list_price {
+		font-size: 30px;
+	}
+	.price-list_price span {
+		font-size: 20px;
+	}
+	.price-list li {
+		margin: 30px 0 20px;
+	}
+	.price_menu-box_h3 {
+		font-size: 36px;
+		margin-top: 95px;
+		line-height: 40px;
+	}
+	.price_menu-box_text {
+		font-size: 14px;
+		margin-top: 27px;
+		margin-bottom: 20px;
+	}
+	.recept_h2 {
+		font-size: 40px;
+		margin-top: 81px;
+	}
+	.recept-h2_atrb {
+		font-size: 12px;
+	}
+	.recept-sm_box1 {
+		margin-top: 45px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 25px;
+	}
+	.recept-sm_box1 p {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 675px;
+		height: 446px;
+		margin: 45px auto 0;
+		float: none;
+
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 162px;
+		height: 166px;
+		margin-left: -162px;
+	}
+	.recept-viget_h3 {
+		font-size: 16px;
+		margin-top: 21px;
+	}
+	.recept-viget_time {
+		font-size: 76px;
+		margin-top: -9px;
+	}
+	.recept-viget_atrb {
+		font-size: 16px;
+		margin-top: -18px;
+	}
+	.recept-link {
+		font-size: 12px;
+		width: 200px;
+		padding: 13px 21px;
+		margin-top: -23px;
+		margin-right: -100px;
+	}
+
+}
+@media (max-width: 767px) {
+	
+	.h1-line {
+		top: 233px;
+	}
+	.slogan {
+		margin-bottom: 25px;
+	}
+	.quotes li {
+		top:0px;
+		/*left:177px;*/
+		left: calc( (100vw - 320px) / (767 - 320) * (177 + 3) - 3px );
+	}
+	.quotes li:nth-child(2) {
+		top:-23px;
+		/*left:520px;*/
+		left: calc( (100vw - 320px) / (767 - 320) * (520 - 259) + 259px );
+	}
+	#cakes {
+		height: auto;
+		padding-bottom: 15px;
+	}
+	#cakes h2 {
+	font-size: 38px;
+	}
+	.chef-name {
+		max-width: 265px;
+	}
+	.chef-name li{
+		font-size: 16px;
+		margin-right: 98px;
+	}
+	.chef-name li:nth-child(1) {
+		margin-left: 0;
+		/*margin-left: 6px;*/
+	}
+	.chef-name li:nth-child(2) {
+		margin-right: 0;
+	}
+	.chef-slogan {
+		font-size: 18px;
+		width: 273px;
+	}
+	.cakes-right_list_1, .cakes-right_list_2, .cakes-right_list_3, .cakes-right_list_4 {
+		margin: 0 auto 15px;
+		float: none;
+	}
+	.cake-bullet {
+		top: 457px;
+		margin-left:-124px;
+	}
+	.cake-bullet_text {
+		top: 528px;
+		margin-left:-114px;
+	}
+	.slick-prev, .slick-next {
+		display: none !important;
+	}
+	.price-h2 {
+		font-size: 50px;
+	}
+	.price-h2_atrb {
+		font-size: 14px;
+		margin-top: 0px;
+	}
+	.price-list_h3 {
+		font-size: 24px;
+	}
+	.price-list_variant {
+		font-size: 12px;
+	}
+	.price-list_price {
+		font-size: 30px;
+	}
+	.price-list_price span {
+		font-size: 20px;
+	}
+	.price-list li {
+		margin: 30px 0 20px;
+	}
+	#price {
+		height: auto;
+		padding-bottom: 25px;
+	}
+	#recept {
+		height: auto;
+	}
+	.recept-box {
+		height: auto;
+		padding-bottom: 50px;
+
+	}
+	.recept_h2 {
+		font-size: 40px;
+		margin-top: 81px;
+	}
+	.recept-h2_atrb {
+		font-size: 12px;
+	}
+	.recept-sm_box1 {
+		margin-top: 45px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 25px;
+	}
+	.recept-sm_box1 p {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 675px;
+		height: 446px;
+		margin: 45px auto 0;
+		float: none;
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 162px;
+		height: 166px;
+		margin-left: -162px;
+	}
+	.recept-viget_h3 {
+		font-size: 16px;
+		margin-top: 21px;
+	}
+	.recept-viget_time {
+		font-size: 76px;
+		margin-top: -9px;
+	}
+	.recept-viget_atrb {
+		font-size: 16px;
+		margin-top: -18px;
+	}
+	.recept-link {
+		font-size: 12px;
+		width: 200px;
+		padding: 13px 21px;
+		margin-top: -23px;
+		margin-right: -100px;
+	}
+}
+
+
+
+@media (max-width: 767px) and (min-width: 505px) {
+	.price_menu-box {
+		float: none;
+		margin: 56px auto 0;
+	}
+	.price_menu-box_h3 {
+		font-size: 36px;
+		margin-top: 135px;
+		line-height: 40px;
+	}
+	.price_menu-box_text {
+		font-size: 14px;
+		margin-top: 60px;
+		margin-bottom: 70px;
+	}
+}
+@media (max-width: 504px) and (min-width: 320px) {
+	.price-h2 {
+		font-size: 40px;
+	}
+	.price-h2_atrb {
+		font-size: 12px;
+		margin-top: 0px;
+	}
+	.price-list_h3 {
+		font-size: 20px;
+	}
+	.price-list_variant {
+		font-size: 12px;
+	}
+	.price-list_price {
+		font-size: 24px;
+	}
+	.price-list_price span {
+		font-size: 16px;
+	}
+	.price-list li {
+		margin: 20px 0 14px;
+	}
+
+}
+@media (max-width: 504px) and (min-width: 380px) {
+	.price_menu-box {
+		width: 300px;
+		height: 405px;
+		float: none;
+		margin: 56px auto 0;
+	}
+	.price_menu-box_h3 {
+		font-size: 32px;
+		margin-top: 54px;
+		line-height: 32px;
+		letter-spacing: 1px;
+		word-spacing: 2px;
+	}
+	.price_menu-box_text {
+		font-size: 14px;
+		margin-top: 13px;
+		margin-bottom: 25px;
+		letter-spacing: 1px;
+		word-spacing: 2px;
+	}
+	.price-button {
+		width: 150px;
+		padding: 10px 38px;
+	}
+}
+@media (max-width: 379px) and (min-width: 320px) {
+	.price_menu-box {
+		width: 265px;
+		height: 358px;
+		float: none;
+		margin: 56px auto 0;
+	}
+	.price_menu-box_h3 {
+		font-size: 32px;
+		margin-top: 54px;
+		line-height: 27px;
+		letter-spacing: 1px;
+		word-spacing: 2px;
+	}
+	.price_menu-box_text {
+		font-size: 14px;
+		margin-top: 13px;
+		margin-bottom: 16px;
+		letter-spacing: 1px;
+		word-spacing: 2px;
+		line-height: 14px;
+	}
+	.price-button {
+		width: 150px;
+		padding: 10px 38px;
+	}
+}
+@media (max-width: 767px) and (min-width: 720px) {
+	.food-card {
+		width: 613px;
+	}
+	.food-description {
+		width: 474px;
+	}
+	.food-description-box {
+		width: 450px;
+		padding: 73px 15px 15px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 165px;
+	}
+}
+@media (max-width: 719px) and (min-width: 660px) {
+	.food-card {
+		width: 563px;
+	}
+	.food-description {
+		width: 424px;
+	}
+	.food-description-box {
+		width: 400px;
+		padding: 73px 15px 15px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 165px;
+	}
+}
+@media (max-width: 659px) and (min-width: 601px) {
+	.food-card {
+		width: 513px;
+	}
+	.food-description {
+		width: 374px;
+	}
+	.food-description-box {
+		width: 350px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 63px 0 10px;
+		width: 300px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 165px;
+	}
+}
+@media (max-width: 600px) and (min-width: 549px) {
+	.food-card {
+		width: 463px;
+	}
+	.food-description {
+		width: 324px;
+	}
+	.food-description-box {
+		width: 300px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 76px -1px 10px;
+		width: 280px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 165px;
+	}
+}
+@media (max-width: 548px) and (min-width: 490px) {
+	.food-card {
+		width: 413px;
+	}
+	.food-description {
+		width: 274px;
+	}
+	.food-description-box {
+		width: 250px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 37px -3px 10px;
+		width: 220px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 165px;
+	}
+}
+@media (max-width: 489px) and (min-width: 387px) {
+	.food-card {
+		width: 350px;
+	}
+	.food-description {
+		width: 224px;
+	}
+	.food-description-box {
+		width: 200px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 37px -5px 10px;
+		width: 180px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 70px;
+	}
+	.food-card_h3 {
+		font-size: 36px;
+	}
+	.food-card_text {
+		letter-spacing: 1px;
+	}
+	.food-card_h3_atrb {
+		font-size: 12px;
+		letter-spacing: 3px;
+		word-spacing: 5px;
+		margin-bottom: 45px;
+	}
+}
+@media (max-width: 386px) and (min-width: 337px) {
+	.food-card {
+		width: 300px;
+	}
+	.food-description {
+		width: 224px;
+	}
+	.food-description-box {
+		width: 200px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 37px -5px 10px;
+		width: 180px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 70px;
+	}
+	.food-card_h3 {
+		font-size: 36px;
+	}
+	.food-card_text {
+		letter-spacing: 1px;
+	}
+	.food-card_h3_atrb {
+		font-size: 12px;
+		letter-spacing: 3px;
+		word-spacing: 5px;
+		margin-bottom: 45px;
+	}
+}
+@media (max-width: 336px) and (min-width: 320px) {
+	.food-card {
+		width: 280px;
+	}
+	.food-description {
+		width: 224px;
+	}
+	.food-description-box {
+		width: 200px;
+		padding: 73px 15px 15px;
+	}
+	.sl {
+		margin: 37px -5px 10px;
+		width: 180px;
+	}
+	.food-card_ready {
+		top: -134px;
+		right: 70px;
+	}
+	.food-card_h3 {
+		font-size: 36px;
+	}
+	.food-card_text {
+		letter-spacing: 1px;
+	}
+	.food-card_h3_atrb {
+		font-size: 12px;
+		letter-spacing: 3px;
+		word-spacing: 5px;
+		margin-bottom: 45px;
+	}
+}
+@media (max-width: 767px) and (min-width: 705px) {
+	.recept_h2 {
+		font-size: 40px;
+		margin-top: 81px;
+	}
+	.recept-h2_atrb {
+		font-size: 12px;
+	}
+	.recept-sm_box1 {
+		margin-top: 45px;
+	}
+	.recept-sm_box3 {
+		margin-top: -10px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 25px;
+	}
+	.recept-sm_box1 p {
+		font-size: 12px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 675px;
+		height: 446px;
+		margin: 45px auto 0;
+		float: none;
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 162px;
+		height: 166px;
+		margin-left: -162px;
+		margin-top: -83px;
+	}
+	.recept-viget_h3 {
+		font-size: 16px;
+		margin-top: 21px;
+	}
+	.recept-viget_time {
+		font-size: 76px;
+		margin-top: -9px;
+	}
+	.recept-viget_atrb {
+		font-size: 16px;
+		margin-top: -18px;
+	}
+	.recept-link {
+		font-size: 12px;
+		width: 200px;
+		padding: 13px 21px;
+		margin-top: -23px;
+		margin-right: -100px;
+	}	
+}
+@media (max-width: 704px) and (min-width: 463px) {
+	.recept_h2 {
+		font-size: 28px;
+		margin-top: 54px;
+	}
+	.recept-h2_atrb {
+		font-size: 10px;
+	}
+	.recept-sm_box1 {
+		margin-top: 30px;
+	}
+	.recept-sm_box3 {
+		margin-top: -10px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 18px;
+	}
+	.recept-sm_box1 p {
+		font-size: 10px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 450px;
+		height: 297px;
+		margin: 30px auto 0;
+		float: none;
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 108px;
+		height: 110px;
+		margin-left: -108px;
+		margin-top: -55px;
+	}
+	.recept-viget_h3 {
+		font-size: 12px;
+		margin-top: 14px;
+		letter-spacing: 1px;
+	}
+	.recept-viget_time {
+		font-size: 52px;
+		margin-top: -6px;
+	}
+	.recept-viget_atrb {
+		font-size: 12px;
+		margin-top: -12px;
+	}
+	.recept-link {
+		font-size: 10px;
+		width: 134px;
+		padding: 9px 10px;
+		margin-top: -23px;
+		margin-right: -67px;
+	}	
+}
+@media (max-width: 462px) and (min-width: 320px) {
+	.recept_h2 {
+		font-size: 28px;
+		margin-top: 54px;
+	}
+	.recept-h2_atrb {
+		font-size: 10px;
+	}
+	.recept-sm_box1 {
+		margin-top: 30px;
+	}
+	.recept-sm_box3 {
+		margin-top: -10px;
+	}
+	.recept-sm_box1 h3 {
+		font-size: 18px;
+	}
+	.recept-sm_box1 p {
+		font-size: 10px;
+		margin-top: 10px;
+	}
+	.recept-sandwich-box {
+		width: 280px; /*450*/
+		height: 185px;
+		margin: 60px auto 0;
+		float: none;
+	}
+	.recept-viget_ready, .recept-viget_cook, .recept-viget_prep {
+		width: 90px;
+		height: 91px;
+		top: -15%;
+		margin-left: -45px;
+		margin-top: -45px;
+	}
+	.recept-viget_ready {
+		left: 84%;
+	}
+	.recept-viget_cook{
+		left: 50%;
+	}
+	.recept-viget_prep {
+		left: 16%;
+	}
+	.recept-viget_h3 {
+		font-size: 10px;
+		margin-top: 12px;
+		letter-spacing: 1px;
+	}
+	.recept-viget_time {
+		font-size: 42px;
+		margin-top: -6px;
+	}
+	.recept-viget_atrb {
+		font-size: 10px;
+		margin-top: -12px;
+	}
+	.recept-link {
+		font-size: 10px;
+		width: 134px;
+		padding: 9px 10px;
+		margin-top: -23px;
+		right: 50%;
+		margin-right: -67px;
+	}	
+}

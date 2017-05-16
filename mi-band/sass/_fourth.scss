@@ -1,0 +1,117 @@
+#fourth {
+	width: 100%;
+	background: url('../img/bg4.png') no-repeat 50% 0% / cover;
+	height: 932px;
+	margin-top: -219px;
+	position: relative;
+	padding-top: 104px;
+	.fourth-item{
+		// text-align: center;
+		width: 1086px;
+	    margin-top: 299px;
+		margin-left: 39px;
+	}
+	h2 {
+		color: white;
+		font-family: 'Open Sans', sans-serif;
+		font-size: 40px;
+		font-weight: 700;
+		line-height: 30px;
+		text-transform: uppercase;
+		text-align: center;
+		margin-left: -25px;
+		letter-spacing: 4px;
+	}
+	& li {
+		list-style-type: none;
+		width: 320px;
+		position: absolute;
+		top: 50%;
+		& .img-box {
+			line-height: 134px;
+			text-align: center;
+			height: 134px;
+			width: 134px;
+			border-radius: 67px;
+			background-color: #cd444b;
+			margin: 0 auto;
+		}
+		& img {
+			max-height: 120px;
+			max-width: 120px;
+		}
+		& h3 {
+			color: white;
+			font-family: 'Open Sans', sans-serif;
+			font-size: 20px;
+			font-weight: 700;
+			line-height: 30px;
+			text-transform: uppercase;
+			text-align: center;
+			margin-top: 16px;
+			letter-spacing: 2px;
+		}
+	}
+	& li:nth-child(1){
+		left: 50%;
+		margin-left: -513px;
+    	margin-top: -93px;
+    	& img {
+    		margin-left: 13px;
+    		margin-top: -1px;	
+    	}
+	}
+	& li:nth-child(2){
+		left: 50%;
+		margin-left: -160px;
+    	margin-top: -170px;
+    	& img {
+    		margin-left: 2px;
+   			margin-top: -1px;	
+    	}
+	}
+	& li:nth-child(3){
+		right: 50%;
+		margin-right: -553px;
+    	margin-top: -93px;
+    	& img {
+    		margin-right: 2px;
+   			margin-top: -1px;	
+    	}
+	}
+	& li:nth-child(4){
+		left: 50%;
+		margin-left: -386px;
+    	margin-top: 215px;
+    	& img {
+    		margin-left: 2px;
+   			margin-top: -1px;	
+    	}
+		& h3 {
+    		margin-top: 0;
+    		margin-bottom: 20px;
+    	}
+	}
+	& li:nth-child(5){
+		right: 50%;
+		margin-right: -409px;
+    	margin-top: 196px;
+    	& img {
+    		margin-right: 2px;
+   			margin-top: -1px;	
+    	}
+		& h3 {
+    		margin-top: 0;
+    		margin-bottom: 19px;
+    		line-height: 129%;
+    	}
+	}
+}
+
+@media (max-width: 1872px )  and (min-width: 1200px){
+	#fourth {
+		// margin-top: -116px;
+		// width:  calc( (100vw - 320px) / (499 - 320) * (345 - 300) + 300px );
+		margin-top: -18.6vw;
+	}
+}
