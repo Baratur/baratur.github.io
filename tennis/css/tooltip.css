@@ -1,0 +1,29 @@
+#easyTooltip{
+
+width:200px;
+
+padding:0px;
+
+background:transparent;
+
+border:none;
+
+z-index: 2000;
+}
+
+#easyTooltip img{
+
+background: transparent;
+
+padding:0px;
+
+border:none;
+
+float:left;
+
+margin-right:0;
+
+} 
+
+#item{display:none;}
+#item2{display:none;}
