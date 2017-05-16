@@ -1,0 +1,140 @@
+.metod-container {
+	width: 100%;
+}
+.metod {
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+.metod h2 {
+	text-align: center;
+	color: black;
+	font-family: "OpenSans";
+	font-size: 39px;
+	font-weight: 300;
+	line-height: 52px;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+}
+.metod-box {
+	width: 579px;
+	height: 218px;
+	margin: 0 auto;
+	background: url("../img/biotredin/fig.svg") no-repeat 50% 50% / cover;
+	position: relative;
+}
+.metod-card1, .metod-card2, .metod-card3 {
+	position: absolute;
+	text-align: center;
+}
+.metod-card1 {
+	width: 100px;
+	top: 51%;
+	left: 12%;
+	color: black;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.metod-left-pic {
+	position: absolute;
+	top: 17%;
+	left: 15%;
+}
+.metod-card2 {
+	width: 110px;
+    top: 21%;
+    left: 40.4%;
+	color: white;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 18px;
+}
+.metod-card3 {
+	width: 150px;
+    top: 52%;
+    left: 67%;
+	color: black;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 22px;
+}
+.metod-right-pic {
+	position: absolute;
+	top: 16%;
+	right: 11%;
+}
+.metod-left-pic-xs, .metod-right-pic-xs {display: none;}
+.medicament-benefits__instruction {
+    padding: 23px 91px 22px 52px;
+}
+.medicament-benefits__instruction:after {
+    content: "";
+    background: url("../img/biotredin/biot-button-ico.svg") no-repeat 0 0 / 24px;
+    width: 24px;
+    height: 29px;
+    position: absolute;
+    top: 16px;
+    right: 47px;
+}
+.medicament-benefits__instruction:hover{
+	border: 1px solid #2f8cc9;
+	background: #fff;
+}
+@media (max-width: 600px ) {
+	.metod-left-pic, .metod-right-pic {display: none;}
+	.metod: {min-width: 100vw;}
+	.metod-box {
+		min-width: 218px;
+		width: 218px;
+		height: 483px;
+		background: url("../img/biotredin/fig2.svg") no-repeat 50% 50% / cover;
+		margin: 0 auto;
+	}
+	.metod-left-pic-xs {
+		display: block;
+		position: absolute;
+		top:7%;
+		left: 50%;
+		margin-left: -32px;
+	}
+	.metod-right-pic-xs {
+		display: block;
+		position: absolute;
+		top: 67%;
+	    left: 50%;
+	    margin-left: -42px;
+	}
+	.metod-card1 {
+		width: 157px;
+    	top: 23%;
+		left: 50%;
+		margin-left: -78px;
+	}
+	.metod-card2 {
+		width: 130px;
+	    top: 39%;
+	    left: 50%;
+	    margin-left: -65px;
+	}
+	.metod-card3 {
+		width: 150px;
+	    top: 79%;
+	    left: 50%;
+	    margin-left: -76px;
+	}
+	.metod h2 {width: 100vw;}
+}
+@media (max-width: 377px ) {
+	.medicament-benefits__instruction:after {
+	    /*top: 26px;*/
+	    right: 26px;
+	}
+	.medicament-benefits__instruction {
+	    padding: 23px 61px 22px 21px;
+	}
+}

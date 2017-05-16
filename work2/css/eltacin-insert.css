@@ -1,0 +1,1086 @@
+.clearfix:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+.medicament {
+    z-index: 3;
+}
+.medicament-box {
+	background: url(../img/eltacin/bg0.png) no-repeat 50% -3%/ 100vw;
+}
+.medicament-heading {
+	background: none;
+	background: url(../img/eltacin/words2.png) no-repeat 50% 50%/ contain;
+}
+.medicament__inner--heading4:after {
+    background: url(../img/eltacin/bg.png) no-repeat 71% 50%/ contain;
+
+}
+.medicament__inner--heading4:after {
+    width: 888px;
+    height: 561px;
+    margin-top: -128px;
+}
+
+.medicament-heading__title {color: #d63e8b;}
+.medicament-content__detail-text-c {
+	color: #d63e8b;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 30px;
+}
+
+.medicament__inner--heading4 a, .medicament__inner--heading4 a:active, .medicament__inner--heading4 a:hover, 
+.medicament__inner--heading4 a:visited, .medicament__inner--heading4 a:focus {
+    display: block;
+    color: white;
+    font-family: 'OpenSans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 41px;
+    text-align: center;
+    width: 270px;
+    height: 41px;
+    background-color: #d63e8b;
+    border-radius: 5px;
+    margin: 14px auto 0;
+    text-decoration: none;
+    letter-spacing: 0.2px;
+}
+.pp_vsd {
+    background: url(../img/eltacin/bullet.svg) no-repeat 0 0;
+    width: 63px;
+    height: 55px;
+}
+.icon-bubble {
+    fill: #d63e8b;
+}
+.elt1 {
+    background: url(../img/eltacin/spiral.svg) no-repeat 0 0;
+    width: 49px;
+    height: 47px;
+}
+.elt2 {
+    background: url(../img/eltacin/mol.svg) no-repeat 0 0;
+    width: 43px;
+    height: 43px;
+}
+.elt3 {
+    background: url(../img/eltacin/shield.svg) no-repeat 0 0;
+    width: 35px;
+    height: 42px;
+}
+.elt4 {
+    background: url(../img/eltacin/rubl.svg) no-repeat 0 0;
+    width: 29px;
+    height: 36px;
+    margin: 0 0 0 8px;
+}
+.medicament-content__benefits-holder-eltacin {
+    padding: 50px 54px 35px 50px;
+}
+
+
+.ins-container {
+	width: 1200px;
+	margin:0 auto;
+}
+.metod-wrapper {
+	width: 100%;
+	background: url(../img/eltacin/bg1.png) no-repeat 50% 0% / cover;
+	z-index: 1;
+	margin-top: -100px;
+	padding-top: 100px;
+}
+.metod, .metod-box {height: 795px;}
+.metod {
+	width: 100%;
+	background:	url("../img/eltacin/card-lines.svg") no-repeat 50% 287px / 845px;
+}
+.metod-box h2 {
+	text-align: center;
+	color: black;
+	font-family: 'OpenSans';
+	font-size: 39px;
+	font-weight: 300;
+	line-height: 52px;
+	margin-top: 9px;
+	letter-spacing: 1px;
+}
+.metod-box .h3-box {
+	margin-top: 405px;
+    margin-left: 52px;
+    padding-left: 85px;
+    position: relative;
+}
+.metod-box h3 {
+	color: black;
+	font-family: 'OpenSans';
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;	
+    letter-spacing: 0.4px;	
+}
+.metod-box .h3-box img {
+	position: absolute;
+	left: 5px;
+	top: -85%;
+}
+.card-box__sm {
+	height: 246px;
+	width: 399px;
+	padding: 28px 27px 29px 0;
+	float: left;
+}
+.card-inner {
+	width: 382px;
+	height: 189px;
+	padding-left: 10px;
+	float: left;
+}
+.card1 {
+	width: 372px;
+	height: 189px;
+	background-color: #eaeaea;
+	box-shadow: 9.2px 9.2px 16px rgba(14, 14, 14, 0.24);
+	position: relative;
+}
+.card1:before {
+	content: "Цистин";
+	color: white;
+	font-family: "OpenSans";
+	font-size: 23px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	background: url("../img/eltacin/card1-decor-top.svg") no-repeat 0% 100% / 148px;
+	width: 148px;
+	height: 78px;
+	display: block;
+	position: absolute;
+	top: -21px;
+	left: 10px;
+}
+.card2:before {
+	content: "Глицин";
+}
+.card3:before {
+	content: "Глутаминовая кислота";
+	color: white;
+	font-family: "Open Sans";
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	width: 140px;
+}
+.card1:after {
+	content: " ";
+	background: url("../img/eltacin/card1-decor-bottom.svg") no-repeat 0% 100% / 148px;
+	width: 100%;
+	height: 117px;
+	display: block;
+	position: absolute;
+	bottom: -39px;
+	left: 10px;
+}
+.card2:after {
+	background: url("../img/eltacin/card2-decor-bottom.svg") no-repeat 0% 100% / 148px;
+}
+.card3:after {
+	background: url("../img/eltacin/card3-decor-bottom.svg") no-repeat 0% 100% / 148px;
+}
+.card1-first{
+	width: 126px;
+	height: 100%;
+	padding: 52px 0 0 68px;
+	box-sizing: border-box;
+	float: left;
+}
+.card1-first p {
+	color: #49a53a;
+	font-family: "OpenSans";
+	font-size: 47px;
+	font-weight: 700;
+	line-height: 50px;
+	padding-bottom: 0;
+}
+.card1-second{
+	padding: 54px 0 0 15px;
+	box-sizing: border-box;
+	height: 100%;
+	width: 246px;
+	float: left;
+}
+.card1-second p {
+	color: black;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	display: inline-block;
+	padding-bottom: 0;
+}
+.card-inner__lft {
+	float:right;
+}
+.card4	{
+	width: 222px;
+	height: 328px;
+	background-color: #d63e8b;
+	box-shadow: 9.2px 9.2px 16px rgba(14, 14, 14, 0.24);
+	position: relative;
+	padding: 151px 5px 0;
+}
+.card-box__lg {
+	height: 328px;
+	width: 282px;
+	padding: 0px 11px 0px 20px;
+	margin: 391px auto;
+}
+.card4:before {
+	content: "ГЛУТАТИОН";
+	color: black;
+	font-family: "OpenSans";
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 49px 44px;
+	box-sizing: border-box;
+	background: url("../img/eltacin/card4-decor.svg") no-repeat 0% 50% / 282px;
+	width: 282px;
+	height: 155px;
+	display: block;
+	position: absolute;
+	top: 1px;
+	left: -21px;
+}
+.card4 p {
+	text-align: center;
+	color: white;
+	font-family: "OpenSans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 15px;
+}
+.card-line {float: none;}
+
+.ac-container input:checked ~ article.ac-small {
+    height: 629px;
+}
+
+.accordion {
+	margin: 0 auto;
+	width: 1170px;
+	padding-bottom: 50px;
+}
+.ac-container {
+	position: relative;
+	margin-top: 89px;
+	padding-top: 10px;
+	box-sizing: border-box;
+}
+.accordion h2 {
+	max-width: 509px;
+	color: #d63e8b;
+	font-family: 'OpenSans';
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 52px;
+	border-bottom: 1px dotted #d63e8b;
+	text-align: center;
+	letter-spacing: 0.4px;
+	position: absolute; 
+	left: 50%;
+	margin-left: -240px;
+	margin-top: -50px;
+	padding-bottom: 0;
+	z-index: 3;
+}
+.accordion-card {
+	width: 531px;
+	height: 630px;
+	border-right: 2px solid #d63e8b;
+	float: left;
+	padding: 44px;
+	box-sizing: border-box;
+}
+.accordion-card2 {
+	border-right: none;
+	    width: 528px;
+}
+.accordion label {
+	z-index: 3;
+	height: 30px;
+	margin-top: 7px;
+}
+.ac-small {
+	z-index: 2 !important;
+	margin-top: -19px !important;
+}
+.accordion-card-inner {
+	width: 436px;
+	height: 545px;
+	background-color: white;
+	box-shadow: 0 0 9px 1px rgba(49, 49, 49, 0.8);
+	text-align: center;
+}
+.accordion-card-inner h3 {
+	text-align: center;
+	margin-top: -8px;
+    margin-bottom: -18px;
+	color: black;
+	font-family: 'OpenSans';
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 52px;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+}
+.accordion-card-inner p{
+	margin: 4px auto 0;
+	padding: 0 27px !important;
+	width: 100%;
+	box-sizing: border-box;
+	height: 146px;
+	color: black !important;
+	font-family: 'OpenSans';
+	font-size: 14px !important;
+	font-weight: 400;
+	line-height: 22px !important;
+}
+.button-list {
+	margin: 55px auto 0;
+	max-width: 702px;
+	min-height: 63px;
+}
+.button-list li:first-child a, .button-list li:first-child a:active, .button-list li:first-child a:visited, 
+.button-list li:first-child a:focus {
+	display: block;
+	width: 338px;
+	height: 63px;
+	background-color: white;
+	border: 1px solid #d63e8b;
+	border-radius: 5px;
+	text-align: center;
+	color: #23527c;
+	font-family: 'OpenSans';
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 63px;
+	text-decoration: none;
+	float: left;
+	margin-right: 25px;
+}
+.inst-button-title {
+	display: block;
+}
+.inst-button-title:after {
+	content: " ";
+	background: url("../img/eltacin/inst-button-ico.png") no-repeat 50% 50% / 24px;
+	width: 34px;
+	height: 29px;
+	padding-left: 10px;
+	display: inline-block;
+	margin-bottom: -8px;
+}
+.button-list li:first-child a:hover {
+	display: block;
+	width: 338px;
+	height: 63px;
+	background-color: #d63e8b;
+	border-radius: 5px;
+	text-align: center;
+	color: white;
+	font-family: 'OpenSans';
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 63px;
+	float: left;
+	margin-right: 25px;
+	text-decoration: underline;
+}
+.button-list li:first-child a:hover > .inst-button-title:after {
+	content: " ";
+	background: url("../img/eltacin/inst-button-ico-h.png") no-repeat 50% 50% / 24px;
+}
+.button-list li:last-child a, .button-list li:last-child a:active, .button-list li:last-child a:visited, 
+.button-list li:last-child a:focus {
+	display: block;
+	width: 338px;
+	height: 63px;
+	background-color: #d63e8b;
+	border-radius: 5px;
+	text-align: center;
+	color: white;
+	font-family: 'OpenSans';
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 63px;
+	text-decoration: none;
+	float: left;
+}
+.button-list li:last-child a:hover {
+	display: block;
+	width: 338px;
+	height: 63px;
+	background-color: white;
+	border: 1px solid #bfc9d9;
+	border-radius: 5px;
+	text-align: center;
+	color: #305a81;;
+	font-family: 'OpenSans';
+	font-size: 17px;
+	font-weight: 400;
+	line-height: 63px;
+	text-decoration: none;
+	float: left;
+}
+#ac-1 + label {
+	background: url(../img/eltacin/plus.svg) no-repeat 50% 50% / 30px !important;
+}
+#ac-1:checked + label {
+	background: url(../img/eltacin/minus.svg) no-repeat 50% 50% / 30px !important;
+}
+.additionals__title {
+    text-align: center;
+}
+.bottom-line {width: 100%; height: 1px;}
+.after-724 {display: none !important;}
+.after-320 {display: none;}
+.after-1200 {display: none;}
+.before-320 {display: none;}
+@media (max-width: 1199px ) {
+	.before-1200 {display: none;}
+	.after-1200 {display: block;}
+	.ins-container, .description-container, .accordion, .ac-container {
+		width: 992px;
+	}
+	.medicament__inner--heading4:after {
+	    width: 50vw;
+	    height: 435px;
+	    margin-top: -3px;
+	    background: url(../img/eltacin/bg.png) no-repeat 50% 50%/ contain;
+	}
+	.card-box__sm {
+		width: 100%;
+		float: none;
+		padding: 15px 27px 24px 0;
+		height: 233px;
+	}
+    .metod, .metod-box {
+    	height: auto;
+    	padding-bottom: 5px;
+    }
+	.metod {
+	    background: none;
+	}
+	.card1 {
+		margin-left: calc( ( 100vw - 725px ) / ( 1199 - 725 ) * ( 100 - 20 ) + 20px );
+	}
+	.card2 {
+		float: right;
+		margin-right: calc( ( 100vw - 725px ) / ( 1199 - 725 ) * ( 100 - 0 ) + 0px );
+	}
+	.card4{
+		float: right;
+		margin-right: calc( ( 100vw - 725px ) / ( 1199 - 725 ) * ( 31 - 10 ) + 10px );;
+	} 
+	.card2:before {
+		content: "Глицин";
+		background: url("../img/eltacin/card2-decor-top-a1200.svg") no-repeat 0% 100% / 148px;
+		top: -17px;
+		left: 214px;
+		padding: 7px 14px;
+	}
+	.card2:after {
+		background: url("../img/eltacin/card2-decor-bottom-a1200.svg") no-repeat 0% 100% / 148px;
+		left: 214px;
+		bottom: -42px;
+		width: 148px;
+	}
+	.card2 .card1-first {
+	    padding: 51px 0 0 18px;
+	}
+	.card-line {
+		position: absolute;
+		right: -163px;
+		bottom: -44px;
+	}
+	.card-line__2 {
+		left: -184px;
+	}
+	.card-line__3 {
+		right: -245px;
+ 	    bottom: -254px;
+	}
+	.card-box__lg {
+	    margin: 29px auto;
+	}
+	.accordion h2 {
+	    color: black;
+	    border-bottom: none;
+	    text-align: center;
+	}
+	/*.card2 {
+	    top: 30.4%;
+	    left: 34.5%;
+	}
+	.card3 {
+	    left: 75%;
+	}*/
+	.description-box {
+		padding: 77px 530px 77px 77px;
+	    background: url(../img/limontar/drink.png) no-repeat 153% 166% / 754px;
+	}
+	.accordion-card, .accordion-card2 {
+	    width: 495px;
+	    padding: 28px;
+	}
+	.button-list {
+	    margin: 60px auto 0;
+	}
+	.ac-small {
+		width: 100%;
+	}
+	#ac-1:checked + label {
+	    background: url(../img/eltacin/minus.svg) no-repeat 49.9% 50% / 30px !important;
+	}
+}
+@media (max-width: 991px ) {
+	.before-724 {display: none !important;}
+	.after-724 {display: block !important;}
+	.ins-container, .description-container, .accordion, .ac-container {
+		width: 100vw;
+	}
+	.offer-box {
+		max-width: 100%;
+	}
+	.medicament__inner--heading4:after {
+	    width: 50vw;
+	    height: 337px;
+	    margin-top: 95px;
+	    background: url(../img/eltacin/bg.png) no-repeat 50% 100%/ contain;
+	}
+	.ins-container {
+		background: none;
+	}
+	.offer-box h2 {
+	    font-size: 40px;
+	    margin-top: -29px;
+	}
+	.offer-box h3 {
+	    font-size: 25px;
+	    margin: 9px auto 0;
+	    max-width: 400px;
+	    line-height: 108%;
+	}
+	.offer-box a, .offer-box a:active, .offer-box a:hover, .offer-box a:visited, .offer-box a:focus {
+	    margin: 7px auto 0;
+	}
+	/*.card-box1 {
+		margin: 38px auto 0;
+	    width: calc(100vw - 40px);
+	    height: auto;
+	    border: 1px solid #a2a2a2;
+	}
+	.card-box1, .card-box2, .card-box1-card1, .card-box1-card2, .card-box1-card2__f {
+		float: none;
+	}
+	.card-box1-card1 {
+	    width: 100%;
+	    padding: 25px 0 0;
+	}
+	.card-box1-card1_up {
+    	position: static;
+	    width: 445px;
+		margin: 0 auto;
+	}*/
+	/*.card-box1-card_text {
+		width: 100%;
+		padding: 0 20px 17px;
+		margin: 20px auto 0px;
+	}
+	.card-box1-card2 {
+	    width: 100%;
+	    background-color: #f4953e;
+	}
+	.card-box1-card2 ul {
+	    margin: 0 auto;
+	    width: 566px;
+		background-color: transparent;
+	}
+	.card-box1-card2__f {
+	    width: 100%;
+	    position: relative;
+	}
+	.card-box1-card2__f a, .card-box1-card2__f a:active, .card-box1-card2__f a:visited,
+	.card-box1-card2__f a:hover, .card-box1-card2__f a:focus {
+		position: absolute;
+		top: 50%;
+		margin-top: -22px;
+		right: 40px;
+	}*/
+	.metod-wrapper {
+		margin-top: 0;
+		padding-top: 0;
+	}
+	.metod {
+	    background: none;
+	}
+	.metod-text img {
+		top: -13%;
+	}
+
+/*	.card1, .card2, .card3 {
+		position: static;
+		float: left;
+		font-size: 14px;
+		margin-top: 19px;
+	}
+	.card1 p, .card2 p, .card3 p {
+		font-size: 14px;
+	}*/
+	/*.card1, .card2 {
+		margin-right: calc((100vw - (268px + 2*186px)) / 3);
+	}
+	.card1 {margin-left: calc((100vw - (268px + 2*186px)) / 6)}
+	.card1, .card3 {
+		width: 186px;
+	}
+	.card2 {
+		width: 268px;
+	}
+	.card2-bullet-right, .card2-bullet-left {
+		position: absolute;
+		top: 46%;
+	}
+	.card2-bullet-right {
+		width: 81px;
+		right: 32%;
+		margin-right: -38px;
+	}
+	.card2-bullet-left {
+		width: 81px;
+		left: 32%;
+		margin-left: -38px;
+	}*/
+	.metod-box h2 {
+	    font-size: 33px;
+	    margin-top: 36px;
+	}
+	.metod-text {
+	    font-size: 15px;
+	    line-height: 24px;
+	    margin-top: -3px;
+	    margin-left: 47px;
+	}
+	.metod-text img {
+		width: 44px;
+		margin-bottom: -12px;
+	}
+	.h3-box {padding-left: 70px !important;}
+	.metod-box .h3-box img {
+	    width: 45px;
+	    top: -52%;
+	}
+	.metod-box .h3-box {
+	    margin-left: 67px;
+	    margin-top: 313px;
+	}
+	.metod, .metod-box {
+	    height: auto;
+	}
+	.metod-box {
+		padding-bottom: 15px;
+	}
+	.description-container {
+	    padding: 28px 20px 20px;
+	}
+	.description-container h2 {
+	    font-size: 33px;
+    	margin-bottom: 6px;
+	}
+	.description-box {
+	    height: auto;
+	    padding: 28px 345px 40px 20px;
+	    background: url(../img/limontar/drink.png) no-repeat 117% 36% / 450px;
+	}	
+	.description {
+	    height: auto;
+	}
+	.description-box p {
+	    padding-bottom: 0;
+	    margin-top: 0;
+	}
+	.description-box img {
+		margin-top: 10px;
+		margin-bottom: 20px;
+	}
+	.ac-small {
+		margin-top: 0px !important;
+	}
+	.accordion label {
+	    margin-top: 17px;
+	}
+	#ac-1:checked + label {
+	    background: url(../img/eltacin/collapse-e.svg) no-repeat 49.9% 50% / 82px !important;
+	    margin-left: 20px;
+	}
+	.accordion-card {
+	    width: 100%;
+	    height: auto;
+	    border-right: none;
+	}
+	.accordion-card, .accordion-card2 {
+	    padding: 28px 0 0;
+	}
+	.accordion-card-inner {
+	    width: 684px;
+	    height: 230px;
+	    margin: 0 auto;
+	}
+	.accordion-card-inner .accordion-card-pic {
+		width: 50%;
+		margin-top: -14px;
+	}
+	.accordion-card-inner {
+		padding-top: 14px;
+	}
+	.accordion-card-inner1 .accordion-card-pic {
+		float: left;
+	}
+	.accordion-card-inner2 .accordion-card-pic {
+		float: right;
+	}
+	.accordion-card-inner1 .accordion-card-text-box {
+		float: left;
+		width: 50%;
+	}
+	.accordion-card-inner2 .accordion-card-text-box {
+		float: left;
+		width: 50%;
+	}
+	.accordion-card-inner h3 {
+	    margin-bottom: -26px;
+	    font-size: 19px;
+	}
+	.accordion-card-inner p {
+	    margin: 0px auto 0;
+	    padding: 0 8px !important;
+	    width: 100%;
+	    font-size: 13px !important;
+	    line-height: 19px !important;
+	}
+	.ac-container input:checked ~ article.ac-small {
+	    height: 550px;
+	}
+}
+@media (max-width: 959px ) and (min-width: 951px) {
+	.medicament__inner--heading4:after {
+	    width: 50vw;
+	    height: 337px;
+	    margin-top: 95px;
+	    background: url(../img/eltacin/bg.png) no-repeat 50% 100%/ contain;
+	}
+}
+@media (max-width: 900px ) and (min-width: 768px) {
+	.medicament-content__detail-img {
+	    margin: 0;
+	    padding:15px;
+	}
+	.medicament-content__detail-img {
+	    margin: 0;
+	}
+}
+@media (max-width: 723px ) {
+	.after-1200 {display: none;}
+	.before-320 {display: block;}
+/*	.insert {
+		background: url("../img/eltacin/bg0-xs.png") no-repeat 50% -56px/ 140%;
+	}*/
+	.medicament-box {
+	    background: url(../img/eltacin/bg0-sn.jpg) no-repeat 50% -3vw / 100vw;
+	}
+	.medicament-heading {
+	    background: none;
+	}
+	.medicament-content__benefits-holder-eltacin {
+	    padding: 50px 54px 35px 30px;
+	}
+	.card-box__sm {
+	    padding: 15px 27px 24px 0;
+	    height: 202px;
+	}
+	.card1 {margin: 0;}
+	.card1:before {
+		content: "Цистин";
+		font-weight: 700;
+		font-size: 18px;
+		-ms-text-align-last: auto;
+		text-align: left;
+		padding: 9px 16px;
+		background: url("../img/eltacin/card1-decor-top-a320.svg") no-repeat 0% 100% / 121px;
+		width: 121px;
+   		height: 66px;
+		top: -17px;
+		left:10px;
+	}
+	.card2:before {
+		content: "Глицин";
+		left: 10px;
+	}
+	.card3:before {
+		content: "Глутаминовая кислота";
+		font-size: 9px;
+		text-align: center;
+		left: 10px;
+		padding: 10px 32px 10px 17px;
+	}
+	.card1:after {
+		content: " ";
+		background: url("../img/eltacin/card1-decor-bottom-a320.svg") no-repeat 0% 100% / 121px;
+		width: 121px;
+		height: 97px;
+		display: block;
+		position: absolute;
+		bottom: -35px;
+		left: 10px;
+	}
+	.card2:after {
+		background: url("../img/eltacin/card2-decor-bottom-a320.svg") no-repeat 0% 100% / 121px;
+	}
+	.card3:after {
+		background: url("../img/eltacin/card3-decor-bottom-a320.svg") no-repeat 0% 100% / 121px;
+	}
+	.card4:before {
+	    content: "ГЛУТАТИОН";
+	    color: black;
+	    font-family: "OpenSans";
+	    font-size: 30px;
+	    font-weight: 700;
+	    text-transform: uppercase;
+	    padding: 49px 44px;
+	    box-sizing: border-box;
+	    background: url(../img/eltacin/card4-decor-a320.svg) no-repeat 0% 50% / 282px;
+	    width: 282px;
+	    height: 155px;
+	    display: block;
+	    position: absolute;
+	    top: 1px;
+	    left: -21px;
+	}
+	.card-box__lg {
+	    height: 282px;
+	    width: 328px;
+	    padding: 0px 51px 0px 51px;
+	    margin: 48px auto 25px;
+	}
+	.card-inner {
+		width: 299px;
+		height: 147px;
+		margin: 0 auto;
+		padding-left: 15px;
+		padding-right: 0px;
+		float: none;
+	}
+	.card1 {
+		width: 289px;
+		height: 147px;
+		float: none;
+		/*margin: 0 auto;*/
+	}
+	.card4 {
+	    float: none;
+	    margin: 0;
+	}
+	.card1-first {
+	    width: 120px;
+	    padding: 30px 0 0 54px;
+	}
+	.card2 .card1-first {
+	    width: 120px;
+	    padding: 30px 0 0 54px;
+	}
+	.card1-second {
+	    padding: 11px 5px 0 5px;
+	    width: 169px;
+	}
+	.card-line {
+		left: 50%;
+		margin-left: -8px;
+		bottom: -56px;
+	}
+	.card-line__3 {
+		margin-left: -14px;
+		bottom: -89px;
+	}
+	.metod-wrapper {
+		background: none;
+	}
+/*	.metod-box .h3-box img {
+	    top: -51%;
+	}
+	.metod-box .h3-box {
+	    margin-top: 45px;
+	}*/
+/*	.card-box1-card2 ul {
+	    width: 100%;
+	    height: 400px;
+	    padding-top: 20px;
+	}
+	.card-box1-card2 li {
+		height: auto;
+		min-height: 60px;
+		display: table;
+	}
+	.card-box1-card2 li {
+	    background-position: 30px 50%;
+	}
+	.li-box {
+		display: table-cell;
+		vertical-align: middle;
+	}
+	.card-box1-card2 li p {
+	    width: 100%;
+	    font-size: 14px;
+	    padding: 0 !important;
+	    padding-bottom: 7px !important;
+	    line-height: 20px;
+	}
+	.card-box1-card2 li p, .card-box1-card2 li:nth-child(2) p, 
+	.card-box1-card2 li:nth-child(3) p {
+		padding: 0;
+	}
+	.card-box1-card2 li:nth-child(4) {
+	    margin-top: 0;
+	    margin-bottom: 0;
+	}
+	.card-box1-card1_up {
+    	position: static;
+	    width: 60%;
+		margin: 0 auto;
+	}
+	.card-box1 {
+	    width: 100%;
+	    border: none;
+	    border-top: 1px solid #a2a2a2;
+	}
+	.card-box1-card2__f {
+	    height: auto;
+	    padding-bottom: 15px;
+	}
+	.card-box1-card2__ff {
+	    width: 100%;
+	    float: none;
+	}
+	.card-box1-card2__f a, .card-box1-card2__f a:active, .card-box1-card2__f a:visited, .card-box1-card2__f a:hover, .card-box1-card2__f a:focus {
+	    position: static;
+	    float: none;
+	    margin-top: -10px;
+	    margin-left: 25px;
+	}
+	.card1, .card2, .card3 {
+	    float: none;
+	    margin: 0;
+	    margin: 19px auto;
+	    height: auto;
+	}*/
+	/*.metod-box h3 {
+	    margin-top: 18px;
+	}*/
+	/*.card2-bullet-top, .card2-bullet-bottom {
+		margin: 5px auto;
+	}
+	.card2-bullet-top {margin-bottom: 15px;}
+	.card2-bullet-bottom {margin-top: 15px;}
+	.card1 p, .card2 p, .card3 p {
+		padding: 0;
+		margin-bottom: 0;
+	}*/
+	.description-box {
+	    height: auto;
+	    padding: 28px 20px 215px 20px;
+	    background: url(../img/limontar/drink.png) no-repeat 55% 101% / 300px;
+	}
+	.accordion h2 {
+	    border-bottom: none;
+	}
+	.accordion-card-inner {
+	    width: 300px;
+	    height: auto;
+	    margin: 0 auto;
+	}
+	.accordion-card-inner .accordion-card-pic {
+	    width: 100%;
+	    margin-top: -14px;
+	}
+	.accordion-card-inner1 .accordion-card-text-box, 
+	.accordion-card-inner2 .accordion-card-text-box {
+	    float: none;
+	    width: 100%;
+	    padding: 0 5px 33px;
+	}
+	.ac-container input:checked ~ article.ac-small {
+	    height: 945px;
+	}
+	.accordion-card-inner h3 {
+	    margin-bottom: -17px;
+	    font-size: 19px;
+	    line-height: 29px;
+	}
+}
+@media (max-width: 638px ) {
+	.metod-box .h3-box img {
+	    top: -30%;
+	}
+	.medicament-content__benefits-holder-eltacin {
+	    padding: 50px 54px 35px 20px;
+	}
+	/*.medicament-box {
+	    background: url(../img/eltacin/bg0-sn.jpg) no-repeat 50% -30vw / 100vw;
+	}*/
+}
+@media (max-width: 705px ) {
+	.button-list li:first-child a, .button-list li:first-child a:active, 
+	.button-list li:first-child a:visited, .button-list li:first-child a:hover, 
+	.button-list li:first-child a:focus {
+	    float: none;
+	    margin-right: 0;
+		margin: 0 auto 30px;
+		width: 268px;
+		height: 51px;
+		line-height: 51px;
+	}
+	.button-list li:last-child a, .button-list li:last-child a:active, 
+	.button-list li:last-child a:visited, .button-list li:last-child a:hover, 
+	.button-list li:last-child a:focus {
+	    float: none;
+	    margin: 0 auto;
+		width: 268px;
+		height: 51px;
+		line-height: 51px;
+	}
+}
+
+@media (max-width: 509px ) {
+	.accordion h2 {
+	    line-height: normal;
+	    margin-left: -50vw;
+	}
+}
+@media (max-width: 412px ) {
+	.metod-box .h3-box img {
+	    top: -6%;
+
+	}
+}
+@media (max-width: 360px ) {
+	.card-box1-card_text__f {
+	    line-height: 12px;
+	    padding: 18px 0;
+	}	
+}
